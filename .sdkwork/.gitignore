@@ -1,0 +1,6 @@
+# Local-only agent workspace state. Never commit anything below these paths.
+local/
+tmp/
+cache/
+secrets/
+manual-backups/
